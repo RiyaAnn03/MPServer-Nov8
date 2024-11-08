@@ -1,0 +1,65 @@
+{
+  "uploadVideos": [
+    {
+      "id": "9c6e",
+      "caption": "avesham",
+      "imgUrl": "https://static.toiimg.com/thumb/msid-108869500,width-1280,height-720,imgsize-88514,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    },
+    {
+      "id": "8eac",
+      "caption": "Vazha trailer",
+      "imgUrl": "https://www.news.keralatv.in/media/2024/09/Vaazha-on-DisneyPlusHotstar-720x720.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    },
+    {
+      "id": "2e4c",
+      "caption": "CSS",
+      "imgUrl": "https://th.bing.com/th/id/OIP.9GLqOe56aIqcRvqi0jCQegHaE8?w=2000&h=1334&rs=1&pid=ImgDetMain",
+      "youTubeLink": "https://www.youtube.com/embed/_oFWg_NlKdo"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3669",
+      "categoryName": "cinema",
+      "allVideos": []
+    },
+    {
+      "id": "894e",
+      "categoryName": "tutorials",
+      "allVideos": []
+    },
+    {
+      "id": "599c",
+      "categoryName": "trailer",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "dd98",
+      "caption": "CSS",
+      "youTubeLink": "https://www.youtube.com/embed/_oFWg_NlKdo",
+      "timeStamp": "11/3/2024, 10:04:32 PM"
+    },
+    {
+      "id": "4037",
+      "caption": "avesham",
+      "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/3/2024, 10:05:12 PM"
+    },
+    {
+      "id": "55fe",
+      "caption": "avesham",
+      "youTubeLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "11/3/2024, 10:39:41 PM"
+    },
+    {
+      "caption": "CSS",
+      "youTubeLink": "https://www.youtube.com/embed/_oFWg_NlKdo",
+      "timeStamp": "11/8/2024, 8:13:10 AM",
+      "id": "Xm0A5yT"
+    }
+  ]
+}
